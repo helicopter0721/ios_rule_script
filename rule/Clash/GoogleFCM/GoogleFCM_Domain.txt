@@ -1,0 +1,15 @@
+alt1mtalk.google.com
+alt2mtalk.google.com
+alt3mtalk.google.com
+alt4mtalk.google.com
+alt5mtalk.google.com
+alt6mtalk.google.com
+alt7mtalk.google.com
+alt8mtalk.google.com
+android.apis.google.com
+deviceprovisioning.googleapis.com
+firebaseinstallations.googleapis.com
+mtalkdev.google.com
+mtalkstaging.google.com
+mtalk.google.com
+mtalk4.google.com
