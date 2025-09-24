@@ -1,3 +1,10 @@
+# NAME: AdGuardSDNSFilter
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:18:35
+# DOMAIN: 62
+# DOMAIN-SUFFIX: 108988
+# TOTAL: 109050
 payload:
   - '103.224.182.210'
   - '109.123.233.251'
