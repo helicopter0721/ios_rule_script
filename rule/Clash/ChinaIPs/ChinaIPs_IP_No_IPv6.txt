@@ -1,10 +1,10 @@
-# NAME: ChinaIPs
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-09-26 02:09:18
-# IP-CIDR: 17562
-# IP-CIDR6: 12863
-# TOTAL: 30425
+#NAME:ChinaIPs
+#AUTHOR:blackmatrix7
+#REPO:https://github.com/blackmatrix7/ios_rule_script
+#UPDATED:2025092602:09:18
+#IPCIDR:17562
+#IPCIDR6:12863
+#TOTAL:30425
 1.0.1.0/24
 1.0.2.0/23
 1.0.32.0/19
